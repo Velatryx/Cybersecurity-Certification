@@ -1,2 +1,2 @@
-# Cybersecurity-Certificates
-Certificates for Cybersecurity Field.
+# Welcome, friend. Here, I will be sharing materials I found/find useful in preparation for cybersecurity certificates, things covered during exams etc.
+For now, there won't be much, but I will be updating this repo, and try to contribute to cybersecurity field, and help other fellas. Anyway, **I should inform you that I am not a professional, so some materials might not be covered, or can be misleading.**
