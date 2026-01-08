@@ -251,5 +251,3 @@ This validation phase ensures:
 
 * crt.sh
 
-
-Just say which.
